@@ -1,0 +1,20 @@
+# IDE & Editor Settings
+.idea/
+.vscode/
+
+# Python Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Media assets & demo recordings
+media/
+*.mp4
+*.mov
+*.avi
